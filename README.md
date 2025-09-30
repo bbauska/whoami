@@ -75,4 +75,4 @@ I will offer resources and will be involved in the realization of exhibition ont
 with the aim to produce permanent centers for the public to get information.</p></li>
 
 <!-- @UAPcheck  & @TheUAPShow -->
-
+<H2>ECONOMIC NIHILISM</H2>
