@@ -55,41 +55,41 @@ affect a child being able to function.</p>
 <h3>Social communication and interaction</h3>
 <p>People with autism spectrum disorder may have problems getting along with others and 
 communicating. They may have a mix of these and other symptoms:</p>
-
-	- Don't respond to their name, or they don't seem to hear at times.
-	- Don't want to be cuddled or held and prefer to play alone, retreating into their own worlds.
-	- Have poor eye contact and have no expression on their faces.
-	- Don't speak or have delayed speech or lose the ability to say words or sentences as they 
-	  could before.
-	- Can't start a conversation or keep one going, or only start one to make requests or label 
-	  items.
-	- Speak with an unusual tone or rhythm and may use a singsong voice or robotlike speech.
-	- Repeat words or phrases word for word but don't know how to use them.
-	- Don't seem to understand simple questions or directions.
-	- Don't show emotions or feelings and don't seem to be aware of how others feel.
-	- Don't point at or bring objects to share interest.
-	- Are passive, aggressive or disruptive when interacting with others.
-	- Have a hard time figuring out what it means when people have different looks on their faces, 
-	  position their bodies differently or speak in different tones of voice.
-
+<ul>
+  <li>Don't respond to their name, or they don't seem to hear at times.</li>
+  <li>Don't want to be cuddled or held and prefer to play alone, retreating into their own worlds.</li>
+  <li>Have poor eye contact and have no expression on their faces.</li>
+  <li>Don't speak or have delayed speech or lose the ability to say words or sentences as they 
+	  could before.</li>
+  <li>Can't start a conversation or keep one going, or only start one to make requests or label 
+	  items.</li>
+  <li>Speak with an unusual tone or rhythm and may use a singsong voice or robotlike speech.</li>
+  <li>Repeat words or phrases word for word but don't know how to use them.</li>
+  <li>Don't seem to understand simple questions or directions.</li>
+  <li>Don't show emotions or feelings and don't seem to be aware of how others feel.</li>
+  <li>Don't point at or bring objects to share interest.</li>
+  <li>Are passive, aggressive or disruptive when interacting with others.</li>
+  <li>Have a hard time figuring out what it means when people have different looks on their faces, 
+	  position their bodies differently or speak in different tones of voice.</li>
+</ul>
 <h3>Patterns of behavior</h3>
 <p>People with autism spectrum disorder may have limited, repetitive patterns of behavior, interests 
 or activities, including a mix of these and other signs:</p>
-
-	- Make the same movement over and over again, such as rocking, spinning or hand-flapping.
-	- Do activities where they could hurt themselves, such as biting or head-banging.
-	- Create specific routines or rituals and become upset at even small changes.
-	- Aren't coordinated and may be clumsy, or they move in patterns that aren't usual, such as 
-	  walking on toes.
-	- Have unusual, stiff or exaggerated body language.
-	- Are fascinated by details of an object, such as the spinning wheels of a toy car, but they 
-	  don't know what the object is for or how it works.
-	- Are sensitive to light, sound or touch but may not be affected by pain or temperature.
-	- Don't mimic others or take part in make-believe play.
-	- Fixate on an object or activity with unusual intensity or focus.
-	- Prefer specific foods, such as eating only a few foods or not wanting to eat foods with 
-	  certain textures.
-
+<ul>
+  <li>Make the same movement over and over again, such as rocking, spinning or hand-flapping.</li>
+  <li>Do activities where they could hurt themselves, such as biting or head-banging.</li>
+  <li>Create specific routines or rituals and become upset at even small changes.</li>
+  <li>Aren't coordinated and may be clumsy, or they move in patterns that aren't usual, such as 
+	  walking on toes.</li>
+  <li>Have unusual, stiff or exaggerated body language.</li>
+  <li>Are fascinated by details of an object, such as the spinning wheels of a toy car, but they 
+      don't know what the object is for or how it works.</li>
+  <li>Are sensitive to light, sound or touch but may not be affected by pain or temperature.</li>
+  <li>Don't mimic others or take part in make-believe play.</li>
+  <li>Fixate on an object or activity with unusual intensity or focus.</li>
+  <li>Prefer specific foods, such as eating only a few foods or not wanting to eat foods with 
+	  certain textures.</li>
+</ul>
 <p>As they get older, some children with autism spectrum disorder interact more with others and 
 show fewer disturbances in behavior. Some, usually those with the least severe problems, 
 eventually may lead typical or nearly typical lives. But others continue to have trouble with 
@@ -136,21 +136,23 @@ function.</p>
 
 <p>A child or adult with autism spectrum disorder may have problems with social interaction 
 and communication skills, including any of these signs:</p>
+<ul>
+  <li>Can't start a conversation, keep one going or can only start one to make requests 
+      or label items.</li>
+  <li>Doesn't appear to understand simple questions or directions.</li>
+  <li>Doesn't express emotions or feelings and appears unaware of others' feelings.</li>
+  <li>Doesn't speak or has delayed speech.</li>
+  <li>Fails to respond to their name or appears not to hear you sometimes.</li>
+  <li>Has difficulty recognizing nonverbal cues, such as interpreting other people's facial 
+	  expressions, body postures or tone of voice.</li>
+  <li>Has poor eye contact and lacks facial expression.</li>
+  <li>Inappropriately approaches a social interaction by being passive, aggressive or disruptive.</li>
+  <li>Prefers playing alone.</li>
+  <li>Repeats words or phrases verbatim but doesn't understand how to use them.</li>
+</ul>
 
-	- Can't start a conversation, keep one going or can only start one to make requests 
-      or label items.
-	- Doesn't appear to understand simple questions or directions.
-	- Doesn't express emotions or feelings and appears unaware of others' feelings.
-	- Doesn't speak or has delayed speech.
-	- Fails to respond to their name or appears not to hear you sometimes.
-	- Has difficulty recognizing nonverbal cues, such as interpreting other people's facial 
-	  expressions, body postures or tone of voice.
-	- Has poor eye contact and lacks facial expression.
-	- Inappropriately approaches a social interaction by being passive, aggressive or disruptive.
-	- Prefers playing alone.
-	- Repeats words or phrases verbatim but doesn't understand how to use them.
-	
 <h3>Awareness of autism behaviors</h3>
+
 <p>According to the Centers for Disease Control and Prevention (CDC), the latest research from 2023 
 shows that 1 in 36 children was diagnosed with autism. This is an increase from 1 in 44 children 
 just two years ago.</p>
@@ -182,12 +184,12 @@ disorder symptoms and supporting their development and learning. Early intervent
 preschool years is key.</p>
 
 <h4>Treatment options may include:</h4>
-
-	- Behavior and communication therapies
-	- Educational therapies
-	- Family therapies
-	- Medications
-
+<ul>
+  <li>Behavior and communication therapies</li>
+  <li>Educational therapies</li>
+  <li>Family therapies</li>
+  <li>Medications</li>
+</ul>
 <p>When you have a child or loved one with autism, the chance of them having anxiety or depression 
 is increased. Evaluating and treating these symptoms can improve their level of functioning and 
 their overall mental health.</p>
@@ -218,7 +220,7 @@ or wait for them to outgrow it, you can minimize some of its symptoms and improv
 
 <p><b>Medicines</b>. Medicine can't make the core signs of autism spectrum disorder better, but specific medicines can help control symptoms. For example, certain medicines may be prescribed if your child is hyperactive. Sometimes healthcare professionals prescribe antipsychotic medicines to treat severe behavioral symptoms. Or they may prescribe antidepressants for anxiety. Keep all healthcare professionals updated on any medicines or supplements your child takes. Some medicines and supplements can affect how one medicine acts with another, causing dangerous side effects.</p>
 
-Managing other medical and mental health conditions
+<h3>Managing other medical and mental health conditions</h3>
 
 <p>In addition to autism spectrum disorder, children, teenagers and adults also can have:</p>
 
@@ -234,5 +236,4 @@ In addition to autism spectrum disorder, your child could be irritable or aggres
 
 <p><b>Planning for the future</b>
 Children with autism spectrum disorder usually continue to learn and come up with ways to handle challenges throughout life. But many continue to need some level of support. Planning for your child's future opportunities can make this process smoother. This includes where to work, go to school and live, and the services required for support, as well as how to be independent and social.</p>
-
 
